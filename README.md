@@ -2,6 +2,8 @@
 
 This package implements a novel method to quantify the reliability of neural network representation-driven hypotheses in statistical hypothesis testing framework by Selective Inference (SI). The basic idea of SI is to make conditional inferences on the selected hypotheses under the condition that they are selected. In order to use SI framework for DNN representations, we develop a new SI algorithm based on homotopy method which enables us to derive the exact (non-asymptotic) conditional sampling distribution of the DNN-driven hypotheses.
 
+See the paper <http://arxiv.org/abs/2010.01823> for more details.
+
 
 ## Installation & Requirements
 
