@@ -31,7 +31,7 @@ To reproduce the results, please see the following instructions.
 
 All the results are shown on console.
 
-- To create a pre-trained network, please run
+- To create a trained network, please run
     ```
 	>> python training.py
 	``` 
