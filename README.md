@@ -1,4 +1,4 @@
-# Quantifying Statistical Significance of Neural Network Representation-Driven Hypotheses by Selective Inference
+# Quantifying Statistical Significance of Neural Network-based Image Segmentation by Selective Inference
 
 This package implements a novel method to quantify the reliability of neural network representation-driven hypotheses in statistical hypothesis testing framework by Selective Inference (SI). The basic idea of SI is to make conditional inferences on the selected hypotheses under the condition that they are selected. In order to use SI framework for DNN representations, we develop a new SI algorithm based on homotopy method which enables us to derive the exact (non-asymptotic) conditional sampling distribution of the DNN-driven hypotheses.
 
